@@ -10,7 +10,8 @@
 The Maze Solver Project is a graphical application that allows users to generate and solve random mazes using classic algorithms. Users can interactively solve mazes or let the program demonstrate solutions using **Breadth-First Search (BFS)** and **Depth-First Search (DFS)**. The project includes features to adjust maze difficulty, track completion time, and visualize maze traversal.
 
 ***
-
+click here to access the game: https://github.com/Pranvith-kethineni/MazeSolver-Project/blob/main/MazeSolverGUI.jar
+***
 ## Features
 
 - **Maze Generation:** Randomly generates mazes with guaranteed solvable paths.
